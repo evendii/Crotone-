@@ -38,16 +38,16 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288232154376', 'AbiDev', true],
-['6288232154376', 'AbiDev', true],
-['6288232154376', 'AbiDev', true] // Jangan Du Hapus Nanti eror 
+['6289522183114', 'ROHMANGANSev', true],
+['6289522183114', 'ICIKIWIRv', true],
+['6289522183114', 'AMHEHE ev', true] // Jangan Du Hapus Nanti eror 
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62882016155766'
-global.nomorown = '6288232154376'
-global.nomorown1 = '6288232154376'
-global.nomorown2 = '62882016155766'
+global.nomorbot = '6289522183114'
+global.nomorown = '6289522183114'
+global.nomorown1 = '6289522183114'
+global.nomorown2 = '6289522183114'
 global.nomorwa = '0'
 
 
@@ -55,8 +55,8 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = '𝘼𝙗𝙞𝘿𝙚𝙫 X 𝙭𝙧𝙗𝙤𝙩'
-global.namebot = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
+global.namebot = 'MEA 𝗺𝗱'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙𝙩 𝗺𝗱'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.wm = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱 '
 global.watermark = wm
